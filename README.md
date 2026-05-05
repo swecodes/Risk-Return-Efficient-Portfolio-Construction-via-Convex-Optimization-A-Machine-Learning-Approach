@@ -1,0 +1,2 @@
+# Risk-Return-Efficient-Portfolio-Construction-via-Convex-Optimization-A-Machine-Learning-Approach
+This project bridges deep learning forecasts and portfolio optimization. We evaluate five machine learning models on US equities, pairing their return predictions with Mean-Variance and CVaR allocation frameworks. Via walk-forward backtesting, we analyze how forecast errors impact out-of-sample portfolio performance and robustness.
