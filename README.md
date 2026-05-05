@@ -1,8 +1,5 @@
 # ML-Driven Portfolio Optimisation
 
-> **Repository link:** `https://github.com/<your-username>/ml-portfolio-optimisation`
-> *(Replace with your actual GitHub URL before submitting your report)*
-
 A machine-learning pipeline that predicts next-day cross-sectional stock returns and feeds those predictions into three portfolio construction frameworks: **Mean-Variance Optimisation (MVO)**, **CVaR-constrained optimisation**, and **Hierarchical Risk Parity (HRP)**.
 
 ---
