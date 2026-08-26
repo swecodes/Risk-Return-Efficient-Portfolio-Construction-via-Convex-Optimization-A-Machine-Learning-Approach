@@ -74,7 +74,7 @@ Walk-forward backtesting: 7 rebalancing periods over the 2024–2025 test window
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/ml-portfolio-optimisation.git
+git clone https://github.com/swecodes/Risk-Return-Efficient-Portfolio-Construction-via-Convex-Optimization-A-Machine-Learning-Approach.git
 cd ml-portfolio-optimisation
 
 # 2. Create a virtual environment (recommended)
